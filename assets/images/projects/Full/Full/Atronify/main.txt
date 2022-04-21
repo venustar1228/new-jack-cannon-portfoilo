@@ -1,0 +1,93 @@
+Project description
+Functionality of the NFT marketplace
+
+Home page
+The main page of the site consists of the following blocks
+Top sellers and buyers
+Top collections
+Hot auctions
+Featured
+NFT categories
+
+Marketplace
+Marketplace - a page with all NFTs existing on the platform. The marketplace page presents
+a multi-level system of filters and sorting
+
+Authorization using a chain
+Login to the system is carried out using Metamask, Wallet Connect, Torus. Immediately after
+that, in the case of the first login, the user signs an agreement with the terms of use and is
+asked to go through a verification tour.
+
+Username
+Creator/Collector (The collector will not be able to create new objects in the system)
+Email
+Bio
+Social networks (Instagram/Twitter/Dribble/Behans/YouTube, fill in at least two)
+Screenshot of the work process or URL of an existing NFT (For the creator)
+
+User Profile
+The following objects in the user profile
+Avatar
+Username
+Wallet address (copied)
+Email
+Bio
+Invite friends (Ability to copy a personalized invitation link)
+Subscribers (a list opens by clicking)
+Subscriptions (a list opens by clicking)
+Number of likes (summed up with all created nft)
+Editing
+Mark of passed/failed verification
+Profile Editing button
+
+Creating an NFT
+While creating an NFT, the user has a wide range of actions and convenient functionality for
+creating an NFT. When uploading a video or music, the user has the opportunity to upload a
+short segment or an image that will serve as a cover for the card of this NFT. At the end of
+the NFT creation, the user can see how the preview of the NFT card will look like. Also, a
+bonus for the creator is the ability to specify the percentage that will be deducted to the
+author from each subsequent resale of the NFT object
+
+Viewing the NFT card
+Viewing card details
+
+Purchase
+Any user with the exception of the owner of the NFT has the opportunity to buy an NFT.
+In the case of an NFT with a series of copies, the user can choose how many copies he is
+willing to buy. Also, in the case of multiple NFT, the cheapest price for a certain number of
+copies is displayed on the NFT card, if several people sell copies at different prices, the
+remaining prices can be seen on the NFT owners tab.
+
+Bet
+Any user with the exception of the owner of the NFT has the opportunity to bid at the
+auction. The bid must be at least 5% higher than the previous one
+
+Auction closing
+After the auction ends, the NFT cardholder must go to the card and accept the last or other
+bid to receive tokens and sell the NFT
+
+Share NFT
+Each user has the opportunity to share NFT in social networks. The function can be called
+both from the card preview and from the card itself
+
+Complain about NFT
+Each user has the opportunity to complain to NFT if he violates any legislation or is a
+copy-paste of someone else's work. All complaints are considered by the administrator. The
+function can be called both from the card preview and from the card itself
+
+NFT Burning
+In the menu of the NFT card there is an opportunity to activate the Burn function and remove
+your NFT from the blockchain
+
+NFT Transfer
+In addition to selling NFT, the user also has the opportunity to give NFT to any other user of
+the system or to any user outside the system using a wallet address or a username. The
+action is performed from the user card menu
+
+Withdrawal from sale
+NFT can be withdrawn from sale at any time from any type of sale in the NFT card
+
+Admin panel
+In the admin panel, the admin has the opportunity to view all SUCH, collections, complaints
+or a list of users, distribute referral rewards, verify the user or block the user or TAE, set the
+system commission for the sale of TAE
